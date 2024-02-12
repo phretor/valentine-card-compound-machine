@@ -113,7 +113,7 @@ pictures below.
 ![Building](img/building-05.jpeg)
 
 ![Building](img/building-08.jpeg)
-![Building](img/building-09.jpeg)
+![Building](img/building-09.png)
 
 ## Circuitry
 
